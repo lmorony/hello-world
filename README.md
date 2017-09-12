@@ -1,3 +1,3 @@
 # hello-world
 Hello World Repository
-My additional text
+My additional text about stuff on the moon
